@@ -6,6 +6,11 @@
   padding: 6rem;
   min-height: 100vh;
 }
+.exercise-container {
+  padding-left: 3em;
+  padding-right: 3em;
+  margin-top: 3em;
+}
 
 .description {
   display: inherit;
@@ -97,7 +102,7 @@
 
 .center::before,
 .center::after {
-  content: '';
+  content: "";
   left: 50%;
   position: absolute;
   filter: blur(45px);
@@ -125,7 +130,7 @@
 
 .thirteen::before,
 .thirteen::after {
-  content: '';
+  content: "";
   position: absolute;
   z-index: -1;
 }
