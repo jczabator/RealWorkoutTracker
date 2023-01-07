@@ -37,6 +37,11 @@ export const workoutData = [
             "weight": 15,
             "numberOfSets": 1,
             "numberOfRepetitions": 6
+        },
+        {
+            "weight": 10,
+            "numberOfSets": 1,
+            "numberOfRepetitions": 6
         }]
 },
 {
@@ -55,6 +60,16 @@ export const workoutData = [
         },
         {
             "weight": 20,
+            "numberOfSets": 1,
+            "numberOfRepetitions": 10
+        },
+        {
+            "weight": 15,
+            "numberOfSets": 1,
+            "numberOfRepetitions": 10
+        },
+        {
+            "weight": 10,
             "numberOfSets": 1,
             "numberOfRepetitions": 10
         }]
