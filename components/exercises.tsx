@@ -16,8 +16,8 @@ export const Exercises = () => {
                                 name={data.name}
                                 equipmentType={data.equipmentType}
                                 setCollection={data.setCollection}
-                            />                            
-                        </div>
+                            />                                                        
+                        </div>                        
                     );
                 })
             }
