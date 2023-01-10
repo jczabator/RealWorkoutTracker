@@ -142,4 +142,167 @@ export const workoutData = [
       },
     ],
   },
+  {
+    name: "Dumbbell chest press standard",
+    equipmentType: "Dumbbell",
+    setCollection: [
+      {
+        weight: 35,
+        numberOfSets: 4,
+        numberOfRepetitions: 6,
+      },
+    ],
+  },
+  {
+    name: "Machine row, lower back",
+    equipmentType: "Machine",
+    setCollection: [
+      {
+        weight: 45,
+        numberOfSets: 4,
+        numberOfRepetitions: 8,
+      },
+    ],
+  },
+  {
+    name: "Machine row, upper back",
+    equipmentType: "Machine",
+    setCollection: [
+      {
+        weight: 45,
+        numberOfSets: 4,
+        numberOfRepetitions: 6,
+      },
+    ],
+  },
+  {
+    name: "Machine triceps",
+    equipmentType: "Machine",
+    setCollection: [
+      {
+        weight: 20,
+        numberOfSets: 4,
+        numberOfRepetitions: 6,
+      },
+    ],
+  },
+  {
+    name: "Bag squats",
+    equipmentType: "Bag",
+    setCollection: [
+      {
+        weight: 25,
+        numberOfSets: 4,
+        numberOfRepetitions: 20,
+      },
+    ],
+  },
+  {
+    name: "Biceps",
+    equipmentType: "barbell",
+    setCollection: [
+      {
+        weight: 15,
+        numberOfSets: 3,
+        numberOfRepetitions: 7,
+      },
+    ],
+  },
+  {
+    name: "Dumbbell squats",
+    equipmentType: "Dumbbell",
+    setCollection: [
+      {
+        weight: 20,
+        numberOfSets: 3,
+        numberOfRepetitions: 10,
+      },
+    ],
+  },
+  {
+    name: "Dumbbell row",
+    equipmentType: "Dumbbell",
+    setCollection: [
+      {
+        weight: 20,
+        numberOfSets: 3,
+        numberOfRepetitions: 10,
+      },
+    ],
+  },
+  {
+    name: "Dumbbell deadlift",
+    equipmentType: "Dumbbell",
+    setCollection: [
+      {
+        weight: 20,
+        numberOfSets: 4,
+        numberOfRepetitions: 10,
+      },
+    ],
+  },
+  {
+    name: "Dumbbell power clean",
+    equipmentType: "Dumbbell",
+    setCollection: [
+      {
+        weight: 20,
+        numberOfSets: 4,
+        numberOfRepetitions: 10,
+      },
+    ],
+  },
+  {
+    name: "Barbell Power clean",
+    equipmentType: "Barbell",
+    setCollection: [
+      {
+        weight: 21,
+        numberOfSets: 4,
+        numberOfRepetitions: 10,
+      },
+    ],
+  },
+  {
+    name: "Barbell shoulder press",
+    equipmentType: "Barbell",
+    setCollection: [
+      {
+        weight: 21,
+        numberOfSets: 2,
+        numberOfRepetitions: 7,
+      },
+    ],
+  },
+  {
+    name: "Pushups ",
+    equipmentType: "Body weight",
+    setCollection: [
+      {
+        weight: 75,
+        numberOfSets: 1,
+        numberOfRepetitions: 12,
+      },
+      {
+        weight: 75,
+        numberOfSets: 1,
+        numberOfRepetitions: 15,
+      },
+      {
+        weight: 75,
+        numberOfSets: 1,
+        numberOfRepetitions: 12,
+      },
+      {
+        weight: 75,
+        numberOfSets: 1,
+        numberOfRepetitions: 12,
+      },
+      {
+        weight: 75,
+        numberOfSets: 1,
+        numberOfRepetitions: 16,
+      },
+    ],
+  },
 ];
