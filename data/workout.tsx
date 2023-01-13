@@ -281,27 +281,27 @@ export const workoutData = [
       {
         weight: 75,
         numberOfSets: 1,
-        numberOfRepetitions: 12,
+        numberOfRepetitions: 10,
       },
       {
         weight: 75,
         numberOfSets: 1,
-        numberOfRepetitions: 15,
+        numberOfRepetitions: 10,
       },
       {
         weight: 75,
         numberOfSets: 1,
-        numberOfRepetitions: 12,
+        numberOfRepetitions: 10,
       },
       {
         weight: 75,
         numberOfSets: 1,
-        numberOfRepetitions: 12,
+        numberOfRepetitions: 10,
       },
       {
         weight: 75,
         numberOfSets: 1,
-        numberOfRepetitions: 16,
+        numberOfRepetitions: 10,
       },
     ],
   },
