@@ -11,6 +11,17 @@ export const workoutData = [
     ],
   },
   {
+    name: "Barbell row home",
+    equipmentType: "small barbell",
+    setCollection: [
+      {
+        weight: 36,
+        numberOfSets: 3,
+        numberOfRepetitions: 8,
+      },
+    ],
+  },
+  {
     name: "Barbell chest press inclined",
     equipmentType: "big barbell",
     setCollection: [
