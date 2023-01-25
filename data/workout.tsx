@@ -16,7 +16,7 @@ export const workoutData = [
     setCollection: [
       {
         weight: 36,
-        numberOfSets: 3,
+        numberOfSets: 4,
         numberOfRepetitions: 8,
       },
     ],
