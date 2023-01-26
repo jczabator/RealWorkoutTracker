@@ -121,7 +121,7 @@ export const workoutData = [
     equipmentType: "big barbell",
     setCollection: [
       {
-        weight: 20,
+        weight: 30,
         numberOfSets: 3,
         numberOfRepetitions: 6,
       },
