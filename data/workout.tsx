@@ -99,7 +99,7 @@ export const workoutData = [
     equipmentType: "dumbbell",
     setCollection: [
       {
-        weight: 20,
+        weight: 25,
         numberOfSets: 4,
         numberOfRepetitions: 8,
       },
