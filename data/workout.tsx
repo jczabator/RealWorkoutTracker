@@ -32,7 +32,7 @@ export const workoutData = [
       },
       {
         weight: 22.5,
-        numberOfSets: 1,
+        numberOfSets: 2,
         numberOfRepetitions: 6,
       },
       {
