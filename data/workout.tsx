@@ -10,6 +10,17 @@ export const workoutData = [
       },
     ],
   },
+{
+    name: "Barbell row",
+    equipmentType: "big barbell",
+    setCollection: [
+      {
+        weight: 20,
+        numberOfSets: 4,
+        numberOfRepetitions: 10,
+      },
+    ],
+  },
   {
     name: "Barbell row home",
     equipmentType: "small barbell",
