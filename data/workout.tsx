@@ -10,7 +10,7 @@ export const workoutData = [
       },
     ],
   },
-{
+  {
     name: "Barbell row",
     equipmentType: "big barbell",
     setCollection: [
