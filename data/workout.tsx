@@ -96,6 +96,17 @@ export const workoutData = [
   },
   {
     name: "Deadlift",
+    equipmentType: "big barbell",
+    setCollection: [
+      {
+        weight: 40,
+        numberOfSets: 3,
+        numberOfRepetitions: 6,
+      },
+    ],
+  },
+  {
+    name: "Deadlift",
     equipmentType: "small barbell",
     setCollection: [
       {
