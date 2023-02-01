@@ -117,6 +117,17 @@ export const workoutData = [
     ],
   },
   {
+    name: "Shoulder press one hand each time",
+    equipmentType: "dumbbell",
+    setCollection: [
+      {
+        weight: 12,
+        numberOfSets: 3,
+        numberOfRepetitions: 6,
+      },
+    ],
+  },
+  {
     name: "Shoulder press",
     equipmentType: "dumbbell",
     setCollection: [
