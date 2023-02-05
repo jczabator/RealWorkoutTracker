@@ -1,6 +1,6 @@
 export const workoutData = [
   {
-    name: "Barbell row",
+    name: "Barbell Row",
     equipmentType: "small barbell",
     setCollection: [
       {
